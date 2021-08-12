@@ -57,9 +57,15 @@ footer div {
     text-align: right; 
 }
 footer a {
-    color: #024e76
+    color: #024e76    
 }
 section { 
     padding: 60px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("./assets/images/hero-bg.jpg");
 }
+/* Hero Style Start */
+.hero {
+    background-image: url("./assets/images/hero-bg.jpg");
+    height: 600px;
+}
+/* Hero Style End */
